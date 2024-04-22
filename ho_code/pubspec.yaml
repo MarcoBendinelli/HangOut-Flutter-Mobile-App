@@ -1,0 +1,134 @@
+name: hang_out_app
+description: Hang Out mobile application developed in Flutter
+
+publish_to: "none"
+
+version: 99.99.99+99
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  assorted_layout_widgets: ^8.0.0
+  bloc: ^8.1.2
+  cloud_firestore: ^4.4.5
+  cupertino_icons: ^1.0.5
+  equatable: ^2.0.5
+  firebase_auth: ^4.3.0
+  firebase_core: ^2.8.0
+  firebase_core_platform_interface: ^4.5.3
+  firebase_storage: ^11.0.16
+  flow_builder: ^0.0.9
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_datetime_picker: ^1.5.1
+  flutter_screenutil: ^5.7.0
+  flutter_staggered_grid_view: ^0.6.2
+  font_awesome_flutter: ^10.4.0
+  formz: ^0.4.0
+  google_fonts: ^4.0.3
+  google_sign_in: ^5.4.4
+  image_picker: ^0.8.7
+  intl: ^0.17.0
+  eva_icons_flutter: ^3.1.0
+  lucide_icons: ^0.127.0
+  meta: ^1.8.0
+  modal_progress_hud_nsn: ^0.3.0
+  persistent_bottom_nav_bar: ^5.0.2
+  table_calendar: ^3.0.8
+  cached_network_image: ^3.2.3
+  flutter_cache_manager: ^3.3.0
+  url_launcher: ^6.1.10
+  flutter_osm_plugin: ^0.53.2
+  geocoding: ^2.1.0
+  pointer_interceptor: ^0.9.3+4
+  mocktail: ^0.3.0
+  bloc_test: ^9.1.1
+  flutter_local_notifications: ^14.0.0+1
+  firebase_messaging: ^14.4.1
+  http: ^0.13.6
+  collection: any
+  fake_cloud_firestore: ^2.4.1+1
+  firebase_storage_mocks: ^0.6.1
+  firebase_auth_mocks: ^0.11.0
+  google_sign_in_mocks: ^0.2.2
+  hydrated_bloc: ^9.1.1
+  json_annotation: ^4.8.1
+  path_provider: ^2.0.15
+  twitter_login: ^4.4.0
+  flutter_device_type: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+  flutter_launcher_icons: ^0.13.1
+  json_serializable: ^6.6.2
+  network_image_mock: ^2.0.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/app_logo.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/app_logo.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/app_logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/background/phone/
+    - assets/background/tablet/
+  fonts:
+    - family: Raleway
+      fonts:
+        #        - asset: fonts/raleway/Raleway-Black.ttf
+        #       - asset: fonts/raleway/Raleway-BlackItalic.ttf
+        #       - asset: fonts/raleway/Raleway-Bold.ttf
+        #       - asset: fonts/raleway/Raleway-BoldItalic.ttf
+        #       - asset: fonts/raleway/Raleway-ExtraBold.ttf
+        #       - asset: fonts/raleway/Raleway-ExtraBoldItalic.ttf
+        #       - asset: fonts/raleway/Raleway-ExtraLight.ttf
+        #       - asset: fonts/raleway/Raleway-ExtraLightItalic.ttf
+        #       - asset: fonts/raleway/Raleway-Italic.ttf
+        #       - asset: fonts/raleway/Raleway-Light.ttf
+        #       - asset: fonts/raleway/Raleway-LightItalic.ttf
+        #       - asset: fonts/raleway/Raleway-Medium.ttf
+        #       - asset: fonts/raleway/Raleway-MediumItalic.ttf
+        - asset: fonts/raleway/Raleway-Regular.ttf
+    #       - asset: fonts/raleway/Raleway-SemiBold.ttf
+    #       - asset: fonts/raleway/Raleway-SemiBoldItalic.ttf
+    #       - asset: fonts/raleway/Raleway-Thin.ttf
+    #       - asset: fonts/raleway/Raleway-ThinItalic.ttf
+
+    - family: Inter
+      fonts:
+        #       - asset: fonts/inter/Inter-Black.ttf
+        #       - asset: fonts/inter/Inter-Bold.ttf
+        #       - asset: fonts/inter/Inter-ExtraBold.ttf
+        #       - asset: fonts/inter/Inter-ExtraLight.ttf
+        #       - asset: fonts/inter/Inter-Light.ttf
+        #       - asset: fonts/inter/Inter-Medium.ttf
+        - asset: fonts/inter/Inter-Regular.ttf
+#       - asset: fonts/inter/Inter-SemiBold.ttf
+#       - asset: fonts/inter/Inter-Thin.ttf
+
