@@ -3,6 +3,8 @@
 
 HangOut is a modern mobile app that revolutionizes socializing. It offers a seamless user experience with four main pages: _My events_, _Explore_, _My groups_, and _Profile_. Users can discover events and groups based on specific interests, manage their activities, and personalize their account. HangOut also includes interactive pop-ups for viewing detailed information, accessing user profiles, creating events and groups, and managing notifications.
 
+The Application UI/UX was developed with the contribution of Elisa Ciliberti, an amazing designer! Check out her work on her website [here](http://elisaciliberti.it/).
+
 ## Design Document
 
 Check out the [Design Document](/design_document/HO_Design_Document.pdf) to learn more! This document includes (mainly) the following information:
@@ -18,7 +20,7 @@ Check out the [Design Document](/design_document/HO_Design_Document.pdf) to lear
 * The third-party APIs integrated
 * Details strategies employed to optimize the performance
 * Testing: the unit, widget, and integration testing process
-* How code branches are organized.
+* How code branches are organized
 * Continuous integration and continuous deployment process.
 
 ## Phone Navigation Graph
@@ -76,31 +78,31 @@ Check out the [Design Document](/design_document/HO_Design_Document.pdf) to lear
 ## Tablet Screens
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/1.png" alt="1">
+  <img width="600" src="ho_images/tablet/1.PNG" alt="1">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/2.png" alt="2">
+  <img width="600" src="ho_images/tablet/2.PNG" alt="2">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/3.png" alt="3">
+  <img width="600" src="ho_images/tablet/3.PNG" alt="3">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/4.png" alt="4">
+  <img width="600" src="ho_images/tablet/4.PNG" alt="4">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/5.png" alt="5">
+  <img width="600" src="ho_images/tablet/5.PNG" alt="5">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/6.png" alt="6">
+  <img width="600" src="ho_images/tablet/6.PNG" alt="6">
 </p>
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/7.png" alt="7">
+  <img width="600" src="ho_images/tablet/7.PNG" alt="7">
 </p>
 
 ## Test Coverage
