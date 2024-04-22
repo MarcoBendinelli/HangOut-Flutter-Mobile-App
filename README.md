@@ -1,11 +1,49 @@
-# HangOutApp
+# HangOut :iphone:
 [![codecov](https://codecov.io/gh/MarcoBendinelli/HangOutApp/branch/main/graph/badge.svg?token=HGMS6OM6N9)](https://codecov.io/gh/MarcoBendinelli/HangOutApp)
 
-Hang Out mobile Application developed in Flutter!
+HangOut is a modern mobile app that revolutionizes socializing. It offers a seamless user experience with four main pages: _My events_, _Explore_, _My groups_, and _Profile_. Users can discover events and groups based on specific interests, manage their activities, and personalize their account. HangOut also includes interactive pop-ups for viewing detailed information, accessing user profiles, creating events and groups, and managing notifications.
 
-This project started as a University project for the course Development and Implementation of a Mobile Application.
+## Design Document
 
-Read the [DesignDocument](/design_document/HO_Design_Document.pdf.pdf) if you are want to discover more!
+Check out the [Design Document](/design_document/HO_Design_Document.pdf) to learn more! This document includes (mainly) the following information:
+
+* Key features of HangOut, including unified sign-in options, group and event exploration, creation and customization of groups and events, efficient organization, flexible modifications, chat functionality, profile and app settings management, and unified notifications management
+* Use Cases illustrating various scenarios and interactions users may have with the application
+* Wireframes providing visual representations of the app's interface design for both phone and tablet devices
+* The hierarchy and flow of navigation
+* Supported platforms
+* Technologies and frameworks used in the development
+* The high-level system architecture, component interaction, and design patterns utilized in the app
+* Database services used
+* The third-party APIs integrated
+* Details strategies employed to optimize the performance
+* Testing: the unit, widget, and integration testing process
+* How code branches are organized.
+* Continuous integration and continuous deployment process.
+
+## Phone Navigation Graph
+
+<p align="center">
+  <img width="800" src="ho_images/phone_navigation_graph.svg" alt="phone_navigation_Graph">
+</p>
+
+## Phone Screens
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_auth.png" alt="screens_1">
+</p>
+
+## Tablet Screens
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/Chat port.png" alt="screens_auth">
+</p>
+
+## Test Coverage
+
+<p align="center">
+  <img width="750" src="ho_images/test_coverage.svg" alt="test_coverage">
+</p>
 
 ## Additional Information
 
