@@ -30,13 +30,77 @@ Check out the [Design Document](/design_document/HO_Design_Document.pdf) to lear
 ## Phone Screens
 
 <p align="center">
-  <img width="750" src="ho_images/phone/screens_auth.png" alt="screens_1">
+  <img width="750" src="ho_images/phone/screens_1.png" alt="screens_1">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_2.png" alt="screens_2">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_3.png" alt="screens_3">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_4.png" alt="screens_4">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_5.png" alt="screens_5">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_6.png" alt="screens_6">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_7.png" alt="screens_7">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_8.png" alt="screens_8">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_9.png" alt="screens_9">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_10.png" alt="screens_10">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/phone/screens_11.png" alt="screens_11">
 </p>
 
 ## Tablet Screens
 
 <p align="center">
-  <img width="750" src="ho_images/tablet/Chat port.png" alt="screens_auth">
+  <img width="750" src="ho_images/tablet/1.png" alt="1">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/2.png" alt="2">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/3.png" alt="3">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/4.png" alt="4">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/5.png" alt="5">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/6.png" alt="6">
+</p>
+
+<p align="center">
+  <img width="750" src="ho_images/tablet/7.png" alt="7">
 </p>
 
 ## Test Coverage
